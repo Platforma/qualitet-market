@@ -1,6 +1,6 @@
 # HurtDetalUszefaQUALITET
 
-Link do podglądu platformy: https://uszefaqualitet.pl
+Link do podglądu platformy: https://qualitet-market.com
 
 ## Backend API
 
