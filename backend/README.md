@@ -449,5 +449,6 @@ sudo -u postgres createdb hurtdetal_qualitet
 sudo npm install -g pm2
 pm2 start backend/src/app.js --name hurtdetal-api
 pm2 startup && pm2 save
-```
+``` 
+# Trigger migrations
 
