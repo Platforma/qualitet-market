@@ -1,4 +1,4 @@
-# HurtDetalUszefaQUALITET – Backend API
+# qualitet-market.com– Backend API
 
 Node.js / Express REST API z bazą danych PostgreSQL dla platformy HurtDetalUszefaQUALITET.
 
